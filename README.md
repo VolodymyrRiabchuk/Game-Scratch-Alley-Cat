@@ -2,4 +2,4 @@
 ### 2D platformer. Using Scratch
 Stack: 
 Scratch
-![Screenshot of the game](AlleyCat.gif)
+![Screenshot of the game](AlleyCatH.gif)
